@@ -1,7 +1,7 @@
-<h1 align="center"> Calendário da Copa 2022  🏆 Fase de Grupos ⚽ | NLW #10 </h1>
+<h1 align="center"> Bolão da Copa 2022  🏆 | NLW #10 </h1>
 
 <p align="center">
-Quer saber quando o Brasil joga? Segue um calendário para os jogos da fase de grupos da copa ✌️😁.
+Crie seu bolão, convide seus amigos e veja quem acerta mais resultados.
 </p>
 
 <p align="center">
@@ -12,37 +12,52 @@ Quer saber quando o Brasil joga? Segue um calendário para os jogos da fase de g
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://user-images.githubusercontent.com/102992996/205371435-e5615bda-147b-4903-9ad8-c67885a54aa1.jpeg">
+  <img alt="License" src="https://user-images.githubusercontent.com/102992996/205371430-55346160-65df-447f-b2f6-9b76005be711.png" width="30%">
+  <img alt="License" src="https://user-images.githubusercontent.com/102992996/205371431-c2dc1cdc-65b0-42d6-9a2b-34fb2e21e30b.png"  width="30%">
+  <img alt="License" src="https://user-images.githubusercontent.com/102992996/205371433-1876f023-26f0-4271-a76c-5be5a3f5da1e.png"  width="30%">
+    <img alt="License" src="https://user-images.githubusercontent.com/102992996/205371438-e84bbead-dd44-4970-ba21-4e4024ea3def.png"  width="30%">
+      <img alt="License" src="https://user-images.githubusercontent.com/102992996/205371444-b8cf0106-6b0f-4226-bb0c-5130f1fefc2d.png"  width="30%">
+
 </p>
 
 <br>
 
-<p align="center">
-  <img alt="blue" src="https://user-images.githubusercontent.com/102992996/200004833-f6b7ede1-6ce7-4346-b2fd-3899d3b396ba.jpeg" width="40%">
-   <img alt="green" src="https://user-images.githubusercontent.com/102992996/200004844-44b51be1-af7e-43bf-845b-49f87354f376.jpeg" width="40%">
-    <img alt="yellow" src="https://user-images.githubusercontent.com/102992996/200004849-ef32094d-6c54-4531-ac6b-4df6867cfb33.jpeg" width="40%">
-     <img alt="resto" src="https://user-images.githubusercontent.com/102992996/200004847-7ffe43de-d994-4f91-bc1c-061df38ba269.jpeg" width="40%">
-</p>
-<p align="right">
-  <a href="https://gabrielsupz.github.io/Calendario-Copa-NLW/">😉 Confira o projeto online</a>
- 
-</p>
+
+
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+### Back-end (Api):	
+- NodeJs 
+- Typescript
+- Prisma 
+- Fastify 
+- Zod 
+- SQLite 
+
+### Front-end
+#### Web  	
+- React 
+- TypeScript 
+- NextJS 
+- TailwindCSS 
+- Axios 
+
+#### Mobile	
+- React Native
+- Expo 
+- Native Base
 
 ## 💻 Projeto
 
-O calendário foi feito para quem quiser saber o dia e horário dos jogos da copa 2022, feito em HTML, CSS e JavaScript.Possui 3 temas que alternam a cada click na cetinha de volte ao topo. FInalizado em 04/11/22 e atualizado com as informações até então disponíveis.
+Consiste em um app de para criar seu próprio bolão da copa, foi feito para estudo na NLW Copa, foi emplementado a criação do bolão, convites para ele e os palpites de jogos.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout base do projeto através [DESSE LINK](<https://www.figma.com/file/rIOge1yX7n75D6CWal2yQ2/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout base do projeto através [DESSE LINK](<https://www.figma.com/file/LlbRFaXpYyaQklJSpRSchx/Bol%C3%A3o-da-Copa-(Community)?node-id=316%3A2316&t=UGfevQIB5zWB2RSn-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -52,4 +67,4 @@ Esse projeto está sob a licença MIT.
 
 ##### Feito com ♥ by [Gabriel Suptitz](https://www.linkedin.com/in/gabriel-suptitz-51340124a/) na NLW realizada pela 🚀[Rocketseat](https://app.rocketseat.com.br/)
 
-##### Está em busca de novos conhecimentos? Então 🤝[participe da comunidade Rocketseat!](https://discord.gg/rocketseat) E BORA ATRÁS DO HEXA BRASIL 😉🏆
+#####  BORA ATRÁS DO HEXA BRASIL 😉🏆 2022
